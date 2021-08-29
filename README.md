@@ -104,7 +104,7 @@ The program displays five projections of the hidden areas in the room, the hidde
 
 ![188804818_1035917173814425_7102112656160449139_n](https://user-images.githubusercontent.com/48614539/120886748-b77f7e00-c619-11eb-871b-4bdff47087fc.png)
 
-### BECAUSE. Function Display The Vision Of Camera
+### VI. Function Display The Vision Of Camera
 
 - Display the image that the camera sees in the room
 
