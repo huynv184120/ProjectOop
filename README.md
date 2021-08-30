@@ -13,7 +13,7 @@ In this situation, the following problems arise:
 -Given a given camera, determine how many more cameras (and where) need to be placed at least so that there are no hidden corners. 
 -With the number of cameras blocked above, determine the camera positions so that the area (volume is more correct) of the hidden corner is the smallest. 
 
-**II.Hypothesis to simplify the problem **
+**II. Hypothesis to simplify the problem **
 
 We have the following assumptions to simplify the problem:
 
@@ -27,7 +27,7 @@ We have the following assumptions to simplify the problem:
 
 ![image](https://user-images.githubusercontent.com/48614539/120887346-6cb33580-c61c-11eb-86bb-d6eb41c0ac29.png)
 
-**III. Input file format: **
+**III.  Input file format: **
 
  **Input:**
  
@@ -48,7 +48,7 @@ We have the following assumptions to simplify the problem:
   - The angle of rotation of the camera with the bottom (is a rectangle parallel to the coordinate axes)
   - Wide angle and high angle are the angles between two lateral planes of the pyramid 
 
-**IV.Functions:**
+**IV. Functions:**
 The program has the following functions: 
 
 - **Room setting function :** The user reads from the file the size of the room, the coordinates of the objects in the room (because the object is rectangular, so just enter the coordinates of the two opposite vertices of the HCN in contact with the floor, the length of one side of the HCN there, cum the height of the object), the color of the object. The program will have to check the validity of: object size (must be rectangular), object placement (more specifically all objects must be in the room), if the object is not in contact with the floor then it must be on another object. 
