@@ -3,7 +3,7 @@
 ##A. Introduction
 This is a great object-oriented exercise. 
 
-**I.6 Description :**
+**I. Description :**
 Each camera has a limited field of view (by the camera's viewing angle and its range) as well as in the room (which contains the camera) there are objects blocking the view of the camera.
 ![image](https://user-images.githubusercontent.com/48614539/120887325-5016fd80-c61c-11eb-84f5-e54f77e3557d.png)
 
